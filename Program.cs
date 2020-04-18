@@ -4,6 +4,7 @@ namespace MainArea{
   {
       public statc void Main(){
           
+          // Here a new comment
       }
   }
 
